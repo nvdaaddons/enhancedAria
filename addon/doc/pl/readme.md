@@ -79,7 +79,8 @@ GitHubie na stronie https://github.com/jmdaweb/enhancedAria
 
 ### Wersja 2.0
 
-* Dodano wsparcie dla panelu ustawień dostępnego w NVDA 2018.2 i nowszych.
+* Dodano obsługę okna dialogowego ustawień wielu kategorii dostępnego w NVDA
+  2018.2 i nowszych wersjach
 * Dodano zgodność z Pythonem 3
 * Od teraz do tworzenia interfejsu dodatku używany będzie guiHelper module
 
