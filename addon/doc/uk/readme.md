@@ -1,8 +1,9 @@
 # Enhanced Aria #
 
 * Автор: Jose Manuel Delicado
-* Legacy add-on: NVDA 2019.3 and later can read articles on the web
-* NVDA compatibility: 2017.4 to 2019.2
+* Застарілий додаток: NVDA 2019.3 і новіші версії можуть читати статті в
+  Інтернеті
+* Сумісність з NVDA : 2017.4 до 2019.2
 * Завантажити [стабільну версію][1]
 
 Цей додаток дозволяє вам обрати, які орієнтири на WEB-сторінках має
@@ -37,45 +38,45 @@ GitHub at https://github.com/jmdaweb/enhancedAria
 
 ### Version 2.8
 
-* New and updated translations.
-* Updated NVDA compatibility flags.
+* Нові й оновлені переклади.
+* Оновлено прапори сумісності з попередніми версіями NVDA.
 
 ### Version 2.7
 
-* Updated compatibility flags for recent NVDA versions.
-* New and updated translations.
+* Оновлено прапори сумісності для попередніх версій NVDA.
+* Нові й оновлені переклади.
 
 ### Version 2.6
 
-* Updated compatibility flags for recent NVDA versions. This version is only
-  compatible with NVDA 2017.4 and above.
-* New and updated translations.
-* Now, the configuration is automatically applied after switching NVDA
-  profiles and restoring settings to factory defaults.
+* Оновлено прапори сумісності для попередніх версій NVDA. Ця версія сумісна
+  лише з NVDA 2017.4 і вище.
+* Нові й оновлені переклади.
+* Тепер конфігурація автоматично застосовується після перемикання профілів
+  NVDA і відновлення стандартних налаштувань.
 
 ### Version 2.5
 
-* Updated compatibility flags for recent NVDA versions.
+* Оновлено прапори сумісності для попередніх версій NVDA.
 
 ### Version 2.4
 
-* Now, settings are removed only when the add-on is
-  uninstalled. Configuration is nolonger reset when upgrading.
-* New and updated translations.
+* Тепер налаштування видаляються лише при видаленні додатка. Конфігурація
+  більше не скидається при оновленні.
+* Нові й оновлені переклади.
 
 ### Version 2.3
 
-* Added compatibility with recent NVDA releases.
-* New translations.
+* Додано сумісність з попередніми версіями NVDA.
+* Нові переклади.
 
 ### Version 2.2
 
-* Fixed a fatal error when a Braille display was used and the article role
-  was configured to be reported.
+* Виправлено фатальну помилку, коли використовувався брайлівський дисплей і
+  було налаштовано повідомлення про статті.
 
 ### Version 2.1
 
-* Stability improvements
+* Поліпшення стабільності
 
 ### Версія 2.0
 
