@@ -98,4 +98,4 @@ pe Github la https://github.com/jmdaweb/enhancedAria
 
 [[!tag dev stable legacy]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=earia
+[1]: https://www.nvaccess.org/addonStore/legacy?file=earia

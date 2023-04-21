@@ -81,4 +81,4 @@ Delicado开发。如果您想与我联系，请发送电子邮件至jm.delicado@
 
 [[!tag dev stable legacy]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=earia
+[1]: https://www.nvaccess.org/addonStore/legacy?file=earia
