@@ -1,8 +1,9 @@
 # Enhanced Aria #
 
 * Auteur : Jose Manuel Delicado
-* Legacy add-on: NVDA 2019.3 and later can read articles on the web
-* NVDA compatibility: 2017.4 to 2019.2
+* Ancienne extension : NVDA 2019.3 et version ultérieure peut lire des
+  articles sur le Web
+* Compatibilité NVDA : 2017.4 à 2019.2
 * Télécharger [version stable][1]
 
 Cette extension vous permet de choisir quelles régions aria doivent être
@@ -39,7 +40,7 @@ sur GitHub à l'adresse https://github.com/jmdaweb/enhancedAria
 ### Version 2.8
 
 * Nouvelles traductions et mises à jour.
-* Updated NVDA compatibility flags.
+* Les indicateurs de compatibilité de NVDA ont été mis à jour .
 
 ### Version 2.7
 
@@ -49,11 +50,13 @@ sur GitHub à l'adresse https://github.com/jmdaweb/enhancedAria
 
 ### Version 2.6
 
-* Updated compatibility flags for recent NVDA versions. This version is only
-  compatible with NVDA 2017.4 and above.
+* Les indicateurs de compatibilité ont été mis à jour pour les versions
+  récentes de NVDA. Cette version est uniquement compatible avec NVDA 2017.4
+  et plus.
 * Nouvelles traductions et mises à jour.
-* Now, the configuration is automatically applied after switching NVDA
-  profiles and restoring settings to factory defaults.
+* Désormais, la configuration est automatiquement appliquée après la
+  commutation des profils NVDA et la restauration des paramètres aux valeurs
+  d'usine par défaut.
 
 ### Version 2.5
 
